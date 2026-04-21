@@ -76,18 +76,6 @@
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codingerror7/codingerror7/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codingerror7/codingerror7/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/codingerror7/codingerror7/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
 ## ⚡ Current Focus
 
 - 📌 Advanced Full Stack Development (scalable systems)
@@ -100,7 +88,7 @@
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/sujal-saraswat">
+  <a href="https://linkedin.com/in/sujal-saraswat-a7aa63202">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/codingerror7">
