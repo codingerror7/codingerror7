@@ -1,7 +1,7 @@
 <h1 align="center">Sujal Saraswat</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Building+Scalable+Products;Clean+UI+%7C+Strong+Backend;Focused+on+Becoming+Top+SDE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+(MERN);Building+Scalable+Products;Clean+UI+%7C+Strong+Backend;Focused+on+Becoming+Top+SDE" />
 </p>
 
 <p align="center">
