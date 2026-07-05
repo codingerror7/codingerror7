@@ -22,6 +22,7 @@
 ## 🚀 Flagship Project
 
 ### 🎬 CineSocial — Social Platform for Cinema Enthusiasts
+       https://cinesocial-webapp.vercel.app/
 
 > A full-stack platform blending **community, content, and conversation around movies**
 
